@@ -1,0 +1,19 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(228,146,225,1.00) 15.96%,rgba(255,255,255,1.00) 36.89%,rgba(236,214,233,1.00) 61.97%,rgba(243,97,222,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(228,146,225,1.00) 15.96%,rgba(255,255,255,1.00) 36.89%,rgba(236,214,233,1.00) 61.97%,rgba(243,97,222,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(228,146,225,1.00) 15.96%,rgba(255,255,255,1.00) 36.89%,rgba(236,214,233,1.00) 61.97%,rgba(243,97,222,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(228,146,225,1.00) 15.96%,rgba(255,255,255,1.00) 36.89%,rgba(236,214,233,1.00) 61.97%,rgba(243,97,222,1.00) 100%);
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #1A1919;
+}
+.container-fluid .container .text-center {
+}
+.container-fluid .container .text-center {
+    text-decoration: overline;
+}
+.col-lg-4 .card.col-md-4.col-lg-12 .card-img-top {
+    float: left;
+    border-collapse: separate;
+}

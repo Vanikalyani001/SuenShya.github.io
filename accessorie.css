@@ -1,0 +1,15 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(233,143,231,1.00) 0%,rgba(197,166,189,1.00) 32.95%,rgba(235,220,232,1.00) 48.70%,rgba(217,163,163,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(233,143,231,1.00) 0%,rgba(197,166,189,1.00) 32.95%,rgba(235,220,232,1.00) 48.70%,rgba(217,163,163,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(233,143,231,1.00) 0%,rgba(197,166,189,1.00) 32.95%,rgba(235,220,232,1.00) 48.70%,rgba(217,163,163,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(233,143,231,1.00) 0%,rgba(197,166,189,1.00) 32.95%,rgba(235,220,232,1.00) 48.70%,rgba(217,163,163,1.00) 100%);
+}
+.container-fluid .container .text-center {
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: overline;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #1A1919;
+}
